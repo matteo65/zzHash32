@@ -15,9 +15,9 @@ However, the MzHash family processes input byte-by-byte. While still very fast, 
 ## Introducing zzHash32
 **zzHash32** is the natural evolution of this research.
 
-The objective behind zzHash32 was to preserve the conceptual simplicity and structural elegance of mzHash32 while introducing block-based processing to significantly improve throughput.
+The objective behind **zzHash32** was to preserve the conceptual simplicity and structural elegance of mzHash32 while introducing block-based processing to significantly improve throughput.
 
-Unlike its predecessor, zzHash32 processes input data in 4-byte blocks. This architectural shift allows it to compete directly with modern high-performance non-cryptographic hash functions while maintaining the statistical strengths developed through years of research.
+Unlike its predecessor, **zzHash32** processes input data in 4-byte blocks. This architectural shift allows it to compete directly with modern high-performance non-cryptographic hash functions while maintaining the statistical strengths developed through years of research.
 
 ## Key Characteristics
 - 32-bit non-cryptographic hash function
@@ -32,7 +32,7 @@ The result is a hash function that combines:
 - The performance advantages of block-based hashing
 - A minimalist and efficient implementation
 
-zzHash32 delivers both speed and quality, making it suitable for hash tables, indexing systems, data structures, checksums, and other high-performance non-cryptographic use cases.
+**zzHash32** delivers both speed and quality, making it suitable for hash tables, indexing systems, data structures, checksums, and other high-performance non-cryptographic use cases.
 This function represents not just a new implementation, but the synthesis of years of experimentation, statistical validation, and iterative refinement in the field of non-cryptographic hashing.
 
 
