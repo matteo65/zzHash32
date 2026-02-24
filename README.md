@@ -25,9 +25,9 @@ Unlike its predecessor, zzHash32 processes input data in 4-byte blocks. This arc
 - Extremely high execution speed
 - Excellent statistical distribution
 - Output quality very close to the Ideal Hash Function model
+- Clean and simple internal structure
 
-Clean and simple internal structure
-- The result is a hash function that combines:
+The result is a hash function that combines:
 - The statistical rigor of the MzHash design philosophy
 - The performance advantages of block-based hashing
 - A minimalist and efficient implementation
