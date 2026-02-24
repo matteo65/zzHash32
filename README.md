@@ -1,1 +1,1 @@
-# rexHash
+# zzHash32
