@@ -20,16 +20,17 @@ The objective behind zzHash32 was to preserve the conceptual simplicity and stru
 Unlike its predecessor, zzHash32 processes input data in 4-byte blocks. This architectural shift allows it to compete directly with modern high-performance non-cryptographic hash functions while maintaining the statistical strengths developed through years of research.
 
 ## Key Characteristics
-32-bit non-cryptographic hash function
-Processes input in 4-byte blocks
-Extremely high execution speed
-Excellent statistical distribution
-Output quality very close to the Ideal Hash Function model
+- 32-bit non-cryptographic hash function
+- Processes input in 4-byte blocks
+- Extremely high execution speed
+- Excellent statistical distribution
+- Output quality very close to the Ideal Hash Function model
+
 Clean and simple internal structure
-The result is a hash function that combines:
-The statistical rigor of the MzHash design philosophy
-The performance advantages of block-based hashing
-A minimalist and efficient implementation
+- The result is a hash function that combines:
+- The statistical rigor of the MzHash design philosophy
+- The performance advantages of block-based hashing
+- A minimalist and efficient implementation
 
 zzHash32 delivers both speed and quality, making it suitable for hash tables, indexing systems, data structures, checksums, and other high-performance non-cryptographic use cases.
 This function represents not just a new implementation, but the synthesis of years of experimentation, statistical validation, and iterative refinement in the field of non-cryptographic hashing.
