@@ -1,4 +1,4 @@
-zzHash32 – A High-Performance Non-Cryptographic Hash Function  
+#zzHash32 – A High-Performance Non-Cryptographic Hash Function  
 
 This project represents the culmination of over five years of dedicated research focused on the design and development of new non-cryptographic hash functions.
 
