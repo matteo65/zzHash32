@@ -1,5 +1,5 @@
 # zzHash32 – A High-Performance Non-Cryptographic Hash Function  
-This project represents the culmination of over five years of dedicated research focused on the design and development of new non-cryptographic hash functions.
+**This project represents the culmination of over five years of dedicated research focused on the design and development of new non-cryptographic hash functions.**
 
 During this period, I developed a large suite of statistical data analysis tools, designed and tested dozens of original hash functions, wrote thousands of lines of experimental and production-grade code, and conducted extensive validation against theoretical and empirical benchmarks. The goal throughout this research was clear: to approach the statistical behavior of an Ideal Hash Function while maintaining practical efficiency.
 
